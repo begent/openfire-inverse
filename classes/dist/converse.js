@@ -57905,7 +57905,7 @@ core_converse.plugins.add('converse-bookmark-views', {
                 </g>
             </svg>
             <span class="converse-brand__text">
-                <span>converse<span class="subdued">.js</span></span>
+                <span>Otherhome<span class="subdued">.admin</span></span>
                 <p class="byline">messaging freedom</p>
             </span>
         </div>
@@ -66788,7 +66788,7 @@ class ConverseBrandLogo extends CustomElement {
                         </g>
                     </svg>
                     <span class="brand-name">
-                        <span class="brand-name__text">converse<span class="subdued">.js</span></span>
+                        <span class="brand-name__text">Otherhome<span class="subdued">.admin</span></span>
                         ${is_fullscreen ? $`
                                 <p class="byline">messaging freedom</p>
                             ` : ''}
